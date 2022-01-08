@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baolongt&label=Profile%20views&color=0e75b6&style=flat" alt="baolongt" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**, **NodeJS**, **Spring boot**
-
+- 🌱 I’m currently learning **NodeJS**, **Spring boot**, **.Net framework**, **Android app development**
+- 📕 I enjoy coding with **JS**
 - 📫 How to reach me **tranbaolong14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
