@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baolongt&label=Profile%20views&color=0e75b6&style=flat" alt="baolongt" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, NextJS, Solidity**
+- 🌱 I’m currently learning **TypeScript, NextJS**
 - 📕 I enjoy coding with **JS**
 - 📫 How to reach me **tranbaolong14@gmail.com**
 
