@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baolongt&label=Profile%20views&color=0e75b6&style=flat" alt="baolongt" /> </p>
 
 - 🌱 I’m currently learning **TypeScript, Serverless with AWS**
-- 📕 I enjoy coding with **JS**
+- 📕 I enjoy coding with **TS**
 - 📫 How to reach me **tranbaolong14@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baolongt&show_icons=true&locale=en&theme=omni" alt="baolongt" /></p>
