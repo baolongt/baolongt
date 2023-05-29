@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baolongt&label=Profile%20views&color=0e75b6&style=flat" alt="baolongt" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Serverless with AWS**
+- 🌱 I’m currently learning **Cloud stuff and blockchain**
 - 📕 I enjoy coding with **TS**
 - 📫 How to reach me **tranbaolong14@gmail.com**
 
