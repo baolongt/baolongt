@@ -7,7 +7,4 @@
 - 📕 I enjoy coding with **TS**
 - 📫 How to reach me **tranbaolong14@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baolongt&show_icons=true&locale=en&theme=omni" alt="baolongt" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolongt&theme=omni" alt="baolongt" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baolongt&theme=omni" alt="baolongt" /></p>
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baolongt)](https://github.com/anuraghazra/github-readme-stats)
