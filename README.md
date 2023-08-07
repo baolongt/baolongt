@@ -6,5 +6,3 @@
 - 🌱 I’m currently learning **Cloud stuff and blockchain**
 - 📕 I enjoy coding with **TS**
 - 📫 How to reach me **tranbaolong14@gmail.com**
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baolongt)](https://github.com/anuraghazra/github-readme-stats)
