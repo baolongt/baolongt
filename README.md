@@ -5,4 +5,5 @@
 
 - 📕 I enjoy coding with **TS**, **Rust**
 - 📫 How to reach me **tranbaolong14@gmail.com**
-- 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baolongt&theme=meta-dark)](https://git.io/streak-stats)
